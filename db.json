@@ -1,5 +1,5 @@
 {"employees" : [
   {"name": "Syam", "email" : "syam@gmail.com"}, 
   {"name": "Bob", "email" : "bob@yahoo.com"}, 
-  {"name": "Jai", "email" : "jaiho@gmail.com"}, 
+  {"name": "Jai", "email" : "jaiho@gmail.com"}
 ]}
